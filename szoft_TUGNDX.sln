@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szoft_TUGNDX", "szoft_TUGNDX\szoft_TUGNDX.csproj", "{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02E59EB-8F3D-45BA-A7C8-5B52A52B737B}
+	EndGlobalSection
+EndGlobal
