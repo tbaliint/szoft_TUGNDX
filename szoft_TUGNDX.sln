@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szoft_TUGNDX", "szoft_TUGNDX\szoft_TUGNDX.csproj", "{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{2817524D-9FB1-4EDC-A087-7DF348A91ED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48DAD7F6-5DF3-4A4B-95F5-BAAD4E162D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2817524D-9FB1-4EDC-A087-7DF348A91ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2817524D-9FB1-4EDC-A087-7DF348A91ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2817524D-9FB1-4EDC-A087-7DF348A91ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2817524D-9FB1-4EDC-A087-7DF348A91ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
