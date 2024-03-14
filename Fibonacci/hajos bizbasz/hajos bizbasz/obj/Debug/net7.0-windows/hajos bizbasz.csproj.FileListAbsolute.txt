@@ -1,0 +1,17 @@
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\bin\Debug\net7.0-windows\hajos bizbasz.exe
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\bin\Debug\net7.0-windows\hajos bizbasz.deps.json
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\bin\Debug\net7.0-windows\hajos bizbasz.runtimeconfig.json
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\bin\Debug\net7.0-windows\hajos bizbasz.dll
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\bin\Debug\net7.0-windows\hajos bizbasz.pdb
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.csproj.AssemblyReference.cache
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos_bizbasz.Form1.resources
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.csproj.GenerateResource.cache
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.AssemblyInfoInputs.cache
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.AssemblyInfo.cs
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.csproj.CoreCompileInputs.cache
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.dll
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\refint\hajos bizbasz.dll
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.pdb
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\hajos bizbasz.genruntimeconfig.cache
+C:\Users\tugndx\source\repos\hajos bizbasz\hajos bizbasz\obj\Debug\net7.0-windows\ref\hajos bizbasz.dll
